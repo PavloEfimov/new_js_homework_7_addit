@@ -1,0 +1,46 @@
+.main {
+    width: 300px;
+    background-color: #cbc3c3;
+    padding: 20px;
+    box-shadow: 0 0 10px;
+}
+
+.inner {
+    border-radius: 10px;
+    background-color: white;
+    color: grey;
+}
+
+img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.name,
+.age_address {
+    text-align: center;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.age,
+.address {
+    display: inline;
+    margin: 0 5px;
+}
+
+footer img {
+    width: 30px;
+    margin-left: 20px;
+}
+
+footer p {
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
